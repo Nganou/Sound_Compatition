@@ -1,4 +1,4 @@
-wave_comp
+sound_competition
 =============
 
 Common code for the Relational Databases and Full Stack Fundamentals courses
