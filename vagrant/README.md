@@ -22,7 +22,7 @@ Launch the Vagrant VM
  Run the Application
 =======================
 
-1. vagrant up
+1. vagrant up <br>
 If you are getting the following error, try changing the vagrant operating system to ubuntu 64 bit:
 default: SSH address: 127.0.0.1:2222
 default: SSH username: vagrant
